@@ -1,0 +1,10 @@
+#Список игнорируемых файлов 
+tempfile.txt
+.DS-Store
+*.zip
+*.gz
+log\*.log
+log\*.log.[0-9]
+assets\photoshop\
+asseta\videos\
+!assets\videos\tour_*.mp4
